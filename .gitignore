@@ -1,0 +1,16 @@
+.env
+__pycache__/
+.cache/
+.env
+*.pyc
+*.pkl
+*.log
+*.db
+*.sqlite3
+knowledge_base/
+data/
+models/
+*.csv
+*.txt
+.idea/
+.vscode/
