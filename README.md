@@ -14,3 +14,21 @@ An AI-powered application that brings financial forecasting, anomaly detection, 
 - `Python`, `Streamlit`, `Scikit-learn`, `Facebook Prophet`, `LangChain`, `OpenAI`, `BeautifulSoup`, `newspaper3k`
 
 ## 📂 Project Structure
+
+├── app.py
+
+├── forecast_engine.py
+
+├── sentiment_model.py
+
+├── rag_assistant.py
+
+├── news_fetcher.py
+
+├── portfolio_analyzer.py
+
+├── knowledge_base/
+
+├── models/
+
+├── data/
